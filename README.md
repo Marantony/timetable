@@ -124,4 +124,4 @@ Execute the program
 ```
 # OUPUT
 
-![Alt text](timetable.png)
+![image](https://github.com/Marantony/timetable/assets/147474422/6a59d825-746b-447b-8003-e76b613939a6)
